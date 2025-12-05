@@ -1,0 +1,50 @@
+name: charissa.thiel
+description: real-time
+version: 0.0.1
+author: a3k6kjzy.uymlwbgk@hurkh4vm.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: charissathiel
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-12-05 21:11:11'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-12-05 21:11:11'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-12-05T21:11:11.468587Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '2025919898'
+  createdAt: '2025-12-05T21:11:11.468587Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
